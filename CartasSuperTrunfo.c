@@ -9,13 +9,17 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
-char Cidade_one [50] = "RiodeJaneiro";
+
+char Estado = 'R';
+char Código de Carta [10] = "R01";
+char Nome da Cidade [50] = "RiodeJaneiro";
+int Número de Pontos Turísticos = 8;
 int População = 6.730729;
 float Área = 1.200330 km²;
-float Pib = 53.07823;
-float Qtd_Pontos_Turisticos = 
-char Código de Carta [10] = "R01";
-char Estado = 'R';
+float PIB = 53.0782;
+
+
+
 
   // Área para entrada de dados
 
