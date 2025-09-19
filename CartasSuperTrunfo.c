@@ -9,7 +9,6 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
-
 char Estado = 'R';
 char Código de Carta [10] = "R01";
 char Nome da Cidade [50] = "RiodeJaneiro";
