@@ -9,20 +9,24 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
-char Estado = 'R';
-char Código de Carta [10] = "R01";
-char Nome da Cidade [50] = "RiodeJaneiro";
-int Número de Pontos Turísticos = 8;
-int População = 6.730729;
-float Área = 1.200330 km²;
-float PIB = 53.0782;
+  char Estado = 'R';
+  char Código_Carta [10] = "R01";
+  char Cidade [50] = "RiodeJaneiro";
+  int NúmeroPontosTurísticos = 8;
+  int População = 6730729;
+  float Área = 1.200330;
+  float PIB = 53.0782;
+
+    // Área para entrada de dados
+      printf(" Digite a sigla do primeiro estado: ");
+        scanf("%c", &Estado);
+          printf(" A sigla do primeiro estado é: %c\n", Estado);
 
 
 
 
-  // Área para entrada de dados
+            // Área para exibição dos dados da cidade
 
-  // Área para exibição dos dados da cidade
-
-return 0;
-} 
+            return 0;
+            } 
+            
